@@ -11,4 +11,4 @@
 
 ## Схема
 
-![Схема](/https://1drv.ms/u/s!AqRzIoWzwbTxg3hcZ4DIa18C6aIn?e=SfG0Qee)
+![Схема](/[https://1drv.ms/u/s!AqRzIoWzwbTxg3hcZ4DIa18C6aIn?e=SfG0Qee](https://github.com/Ekaterina30591/Final-Homework/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.PNG))
